@@ -364,4 +364,7 @@ footer .follow a {
   header .side-menu {
     width: 100vw;
   }
+  .infobox h2 {
+    font-size: 1.5rem;
+  }
 }/*# sourceMappingURL=style.css.map */

@@ -364,14 +364,13 @@ footer {
   body {
     font-size: 14px;
   }
-  .hero {
-    .textcontent {
-      h1 {
-        font-size: 2.5rem;
-      }
-    }
+  .hero .textcontent h1 {
+    font-size: 2.5rem;
   }
   header .side-menu {
     width: 100vw;
+  }
+  .infobox h2 {
+    font-size: 1.5rem;
   }
 }
